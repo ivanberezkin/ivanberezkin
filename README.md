@@ -1,1 +1,1 @@
-![Top Langs](https://github-readme-stats-ivanberezkins-projects.vercel.app/api/top-langs?username=ivanberezkin&cache_bust=122&count_private=true&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats-ivanberezkins-projects.vercel.app/api/top-langs?username=ivanberezkin&cache_bust=126&count_private=true&layout=compact&theme=dracula)
